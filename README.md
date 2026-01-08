@@ -45,4 +45,4 @@ Learned to translate data into actionable business insights
 
 PowerBI_Files     - Dashboard (.pbix)
 Screenshots       - Dashboard screenshots
-Demo              - Demo video of dashboard in action
+Demo Video        - https://drive.google.com/file/d/1807uRaDzcp5RQhdSg6W03h62Jr7uU2po/view?usp=sharing
